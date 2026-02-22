@@ -1,7 +1,5 @@
 #  Healthcare Domain-Specific Assistant via LLM Fine-Tuning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Stecie06/Domain-Specific-Assistant-via-LLMs-Fine-Tuning/blob/main/healthcare_llm_colab.ipynb)
-
 A domain-specific healthcare assistant built by fine-tuning **TinyLlama-1.1B-Chat-v1.0** on 2,000 medical question–answer pairs using **LoRA (Low-Rank Adaptation)**. The assistant answers medical questions with clinical accuracy while staying within free-tier Google Colab GPU constraints.
 
 ---
