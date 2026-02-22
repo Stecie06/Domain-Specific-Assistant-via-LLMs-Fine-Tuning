@@ -167,7 +167,7 @@ jupyter notebook healthcare_llm_colab.ipynb
 
 ##  Demo Video
 
-📺 Watch the full demo: [YouTube Link]([[https://youtu.be/YOUR_VIDEO_ID](https://www.youtube.com/watch?v=ufuvlhFQr78)](https://www.youtube.com/watch?v=ufuvlhFQr78))
+📺 Watch the full demo: [YouTube Link]((https://studio.youtube.com/video/ufuvlhFQr78/edit))
 
 The video covers:
 - Dataset overview and preprocessing
