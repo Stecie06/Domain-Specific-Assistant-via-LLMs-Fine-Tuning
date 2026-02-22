@@ -165,19 +165,6 @@ jupyter notebook healthcare_llm_colab.ipynb
 
 ---
 
-##  Demo Video
-
-📺 Watch the full demo: [YouTube Link]((https://studio.youtube.com/video/ufuvlhFQr78/edit))
-
-The video covers:
-- Dataset overview and preprocessing
-- LoRA configuration walkthrough
-- Training run with live loss curves
-- Evaluation metrics comparison
-- Live Gradio interface demo
-
----
-
 ##  Project Structure
 
 ```
